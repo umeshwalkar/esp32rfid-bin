@@ -8,6 +8,7 @@ This has released binary files for various esp32 based hardwares of rfid project
 * raw file download path https://raw.githubusercontent.com/umeshwalkar/esp32rfid-bin/master/wifirfid_1.0_v2.bin
 
 ## github public server root CA certificate ##
+This certificate found [here](https://github.com/thingsboard/esp32-ota/blob/master/server_certs/ca_cert.pem) 
 ```
 const char *rootCACertificate = \
 "-----BEGIN CERTIFICATE-----\n" \
